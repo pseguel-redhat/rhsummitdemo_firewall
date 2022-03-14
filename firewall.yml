@@ -6,7 +6,7 @@ rules:
     application:
       #id: meraki:layer7/category/27
       name: Advertising
-    policy: allow
+    policy: deny
   # - type: application_category
   #   application:
   #     #id: meraki:layer7/category/27
